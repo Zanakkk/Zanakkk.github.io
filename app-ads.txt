@@ -1,0 +1,2 @@
+# app-ads.txt untuk Duarrr (com.duarrr.game)
+google.com, pub-8134182168219853, DIRECT, f08c47fec0942fa0
